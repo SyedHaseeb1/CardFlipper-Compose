@@ -29,8 +29,7 @@ An Android app featuring smooth card-flipping animations built with Jetpack Comp
 ## Demo
 
 #### Check out a sample animation in action:  
-![Card Flip Animation](demo/demo_card_flipper.gif)
-
+<img src="demo/demo_card_flipper.gif" width="30%" >
 
 ## Installation
 
