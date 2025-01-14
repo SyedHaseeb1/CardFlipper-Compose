@@ -2,7 +2,7 @@
 
 An Android app featuring smooth card-flipping animations built with Jetpack Compose. Perfect for memory games, flashcards, or interactive UIs. Fully customizable, lightweight, and implemented with Kotlin 1.9.25, targeting SDK 35. The app also leverages the **[Extensions_hsb](https://www.github.com/syedhaseeb1/extensions_hsb)** library for enhanced functionality.
 
-![Visitor's Count](https://profile-counter.glitch.me/SyedHaseeb1/CardFlipper-Compose/count.svg)
+![Visitor's Count](https://profile-counter.glitch.me/CardFlipper-Compose/count.svg)
 
 ---
 
@@ -29,10 +29,8 @@ An Android app featuring smooth card-flipping animations built with Jetpack Comp
 ## Demo
 
 #### Check out a sample animation in action:  
-![Card Flip Animation](demo/demo_card_flipper.mp4)
+![Card Flip Animation](demo/demo_card_flipper.gif)
 
-
----
 
 ## Installation
 
