@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color accentColor
+color accentColor_touch
+color black
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable back_img
+drawable bank_logo
+drawable chip_img
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable master_card
+drawable nfc_img
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.CardFlipperExample
+xml backup_rules
+xml data_extraction_rules
